@@ -1,6 +1,6 @@
 <div style="position: relative; width: 100%; height: 300px; overflow: hidden;">
   <img src="histopathology-image.png" alt="Histopathology Image" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.5;">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: #000; font-size: 3em; font-weight: bold;">HistoGraph</h1>
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: #000; font-size: 3em; font-weight: bold;"></h1>
 </div>
 
 ## About the Project
